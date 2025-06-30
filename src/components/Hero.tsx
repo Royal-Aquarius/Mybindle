@@ -54,7 +54,7 @@ export default function Hero() {
               }}
             >
               A place where friendships grow, communities thrive, and moments
-              turn into unforgettable experiences. Whether you're looking to
+              turn into unforgettable experiences. Whether you&apos;re looking to
               reconnect with old friends, build new relationships, or share what
               matters most to you – MyBindle is your home on the internet.
             </div>

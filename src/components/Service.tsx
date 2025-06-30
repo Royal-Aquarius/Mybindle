@@ -162,7 +162,7 @@ const Service = () => {
                   height: "100px",
                 }}
               >
-                Whether it's a DM or a group conversation, connect instantly
+                Whether it&apos;s a DM or a group conversation, connect instantly
                 with smooth, lightning-fast messaging.
               </p>
             </div>
